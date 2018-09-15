@@ -12,7 +12,6 @@ public class ReverseGivenNumber {
 		System.out.println("Reverse Number: "+numberReversing(number));
 	}
 	
-	@SuppressWarnings("unused")
 	private static int numberReversing(int inputNumber)
 	{
 		int tempNumber = 0,outputNumber = 0;
