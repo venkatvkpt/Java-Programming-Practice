@@ -3,7 +3,7 @@ package in.programs.numberbasic;
 public class NumberFactorial {
 
 	public static void main(String[] args) {
-		int input = 11;
+		int input = 10;
 		System.out.println("Factorial of "+input+" is "+factorial(input) );
 		
 
