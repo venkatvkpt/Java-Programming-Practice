@@ -4,7 +4,7 @@ public class NumberFactorial {
 
 	public static void main(String[] args) {
 		int input = 10;
-		System.out.println("Factorial of "+input+" is "+factorial(input) );
+		System.out.println("Factorial of "+input+" is "+factorial(input));
 		
 
 	}
