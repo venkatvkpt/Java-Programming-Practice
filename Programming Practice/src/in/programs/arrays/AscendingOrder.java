@@ -9,7 +9,6 @@ public class AscendingOrder {
 			System.out.print(before+" ");
 		}
 		order(input);
-	
 		System.out.println("\n After Sorting");
 		for(int after : input) {
 			System.out.print(after +" ");
