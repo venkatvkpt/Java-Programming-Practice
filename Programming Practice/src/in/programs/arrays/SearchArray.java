@@ -4,7 +4,7 @@ public class SearchArray {
 
 	public static void main(String[] args) {
 		int [] input = {1,243,4,0,2,5,67,3,7,4,8,1,0,3,1};
-		
+	
 		System.out.println(search(input,0));
 	}
 	
